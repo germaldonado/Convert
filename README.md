@@ -15,7 +15,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="/src/img/convert.png" width="50px">
-    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://gitlab.com/Willydmq/convert" target="_blank">Convert</a>
+    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://github.com/germaldonado/Convert" target="_blank">Convert</a>
 </div>
 
 ## Instalación ⚙️
@@ -77,7 +77,7 @@ Este enfoque de diseño ayuda a separar las diferentes responsabilidades de la a
 
 ## Autores ✒️
 
-- **William Maldonado** - _Edición #2: Challenge Back End Java - Conversor_ - [Willydmq](https://gitlab.com/Willydmq)
+- **German Maldonado** - _Edición #2: Challenge Back End Java - Conversor_ - [germanldonado](https://gitlab.com/germaldonado)
 
 ## Expresiones de Gratitud
 
@@ -89,6 +89,6 @@ Este enfoque de diseño ayuda a separar las diferentes responsabilidades de la a
 
 ---
 
-⌨️ con ❤️ por [William Maldonado](https://gitlab.com/Willydmq) 😊
+⌨️ con ❤️ por [German Maldonado](https://gitlab.com/germaldonado) 😊
 
 ---
